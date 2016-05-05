@@ -1,2 +1,3 @@
 add text file lyb.txt
 this is master branch
+this is feature2 branch.
